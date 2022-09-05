@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CHNetwork_Tests' do
+  pod 'CHNetwork', :path => '../'
+  
+  
+end
